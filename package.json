@@ -1,0 +1,27 @@
+{
+  "name": "wechat",
+  "version": "1.0.0",
+  "description": "这是我的第一个node.js服务器",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alfei13",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.1",
+    "sha1": "^1.1.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfei13/node_learn.git"
+  },
+  "keywords": [
+    "jinkesi"
+  ],
+  "bugs": {
+    "url": "https://github.com/alfei13/node_learn/issues"
+  },
+  "homepage": "https://github.com/alfei13/node_learn#readme"
+}
